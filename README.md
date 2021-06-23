@@ -1,22 +1,9 @@
-## Notes
-
-#### Older React Version
+## React Project Using
 
 ```
-"react": "^16.13.1",
-"react-dom": "^16.13.1",
-"react-scripts": "3.4.3",
+Functional components with hooks (useReducer, useState, useContext, useEffect,...)
+React-router-dom (for routing)
+Auth0 (for authentication)
 ```
 
-#### Current React Version
 
-```
-"react": "^17.0.1",
-"react-dom": "^17.0.1",
-"react-scripts": "4.0.0",
-```
-
-#### Alternative fix
-
-.env file in the root
-FAST_REFRESH=FALSE
